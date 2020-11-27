@@ -20,7 +20,7 @@ using namespace std;
 #define mp(x,y) make_pair(x,y)
 using namespace std;
 
-template<typename T>  //we are declaring templates because we are implementing for all data types
+template<typename T>  //we are declaring templates because we are implementing for all node data types
 
 class graph
 {

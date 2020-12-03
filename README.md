@@ -1,2 +1,2 @@
 # Snakes-and-Ladder
-Snakes and ladder deterministic dice moves using sssp bfs
+Minimum number fo deterministic Dice moves required to reach the destination box given any source box.Implemented using BFS and SSSP graph algorithm.
